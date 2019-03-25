@@ -13,11 +13,11 @@ Twitter向けにプレリリースを行いました。
 Tweet機能がついています。
 
 
-[ダウンロードはこちらからお願いします](https://github.com/aimof/esepi/releases/tag/twitter0.0.1)。
+[ダウンロードはこちらからお願いします](https://github.com/aimof/esepi/releases/tag/Twitter0.0.1)。
 
 ## Twitter向けプレリリースの使い方
 
-1. 自分のOSに合ったファイルを[リリースページ](https://github.com/aimof/esepi/releases/tag/twitter0.0.1)からダウンロードしてください。（ライセンスに同意いただける方だけご利用ください）
+1. 自分のOSに合ったファイルを[リリースページ](https://github.com/aimof/esepi/releases/tag/Twitter0.0.1)からダウンロードしてください。（ライセンスに同意いただける方だけご利用ください）
 2. ファイルを実行してください。
 3. Chromeなどのブラウザを起動してください。
 4. アドレスバーに`localhost:8880`と入力し、エンターまたはリターンキーを押してアクセスしてください。
