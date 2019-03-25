@@ -23,6 +23,9 @@ const resultTemplate = `<html lang="ja">
                     <p>所要時間：　{{.TimeSpent}}秒</p>
                 </div>
                 <div class="col-8 col-push-2">
+                    <a href="https://twitter.com/intent/tweet?button_hashtag=ESEPI&text=適性試験ESEPIであなたは、{{.Accuracy}}％、{{.TimeSpent}}秒の結果を残しました。&url=https%3A%2F%2Fgithub.com%2Faimof%2Fesepi%2Ftree%2Fmaster&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">#ESEPI の結果をツイート</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+                <div class="col-8 col-push-2">
                     <form action="end">
                         <label class="form-group">スクリーンショット撮影が終わったら終了ボタンを押してください。</label>
                         <label class="form-group"><b>スコアは記録されません。必ずスクリーンショットを撮影してください。</b></label>
